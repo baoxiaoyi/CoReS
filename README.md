@@ -1,4 +1,4 @@
-# CORES: Reasoning Segmentation via Large Language Model
+# CoReS: Orchestrating the Dance of Reasoning and Segmentation
 
 <font size=7><div align='center'><b>CORES</b>: Orchestrating the Dance of Reasoning and Segmentation</div></font>
 
